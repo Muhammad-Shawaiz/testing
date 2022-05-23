@@ -16,3 +16,7 @@ Just follow the steps below.
 8. After running the script check its IP Address and resolve it on your base machine. In macOs , it is /etc/hosts.
 9. Make sure that your Network Adapter would be at "Bridged Adapter" if you are working by creating VM.
 10. Write the domain name in the browser and boom your hosted site will be in front of you.
+
+
+Expectional Case: 
+If the script didn't show the desired result try to change the IPv4 in script to the IPv4 of your VM/machine.
